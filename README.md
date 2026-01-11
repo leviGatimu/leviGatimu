@@ -65,32 +65,17 @@ I enjoy building clean, practical systems that solve real-world problems.
 
 ---
 
-## GitHub Overview
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levi&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=levi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levi&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Contact
 <p>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+  <a href="[https://www.instagram.com/YOUR_INSTAGRAM/](https://www.instagram.com/levi.nyk/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/levi-gatimu-a0277836b/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:yourgmail@gmail.com">
+  <a href="mailto:getmorelev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
