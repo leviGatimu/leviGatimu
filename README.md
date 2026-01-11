@@ -67,11 +67,11 @@ I enjoy building clean, practical systems that solve real-world problems.
 
 ## Contact
 <p>
-  <a href="[https://www.instagram.com/YOUR_INSTAGRAM/](https://www.instagram.com/levi.nyk/)" target="_blank">
+  <a href="https://www.instagram.com/levi.nyk/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/levi-gatimu-a0277836b/)" target="_blank">
+  <a href="https://www.linkedin.com/in/levi-gatimu-a0277836b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
