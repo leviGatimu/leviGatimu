@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Levi;Student+Developer;Building+real-world+systems;Always+learning+and+improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Levi;Full+Stack+Student+Developer;Problem+Solver+%26+Builder;Turning+ideas+into+real-world+systems;Always+learning%2C+always+building" />
 </p>
 
 <p align="center">
-  <strong>Student • Developer • Builder</strong><br/>
-  Programming, Robotics, and Practical Technology
+  <strong>Student • Full-Stack Developer • Designer • Builder</strong><br/>
+  Programming, Robotics, Design, and Practical Technology
 </p>
 
 <p align="center">
@@ -17,38 +17,75 @@
 
 ---
 
-## About Me
-I’m a student developer interested in programming, robotics, and AI.  
-I enjoy building clean, practical systems that solve real-world problems.
+## 👋 About Me
+I’m a **student full-stack developer** with strong interests in **programming, robotics, AI, and system design**.  
+I enjoy building **clean, modern, and practical solutions** that solve real-world problems.
+
+I don’t just code — I design, prototype, and bring ideas to life.
 
 ---
 
-## Experience
+## 🧠 Experience & Focus
 <p>
-  <img src="https://img.shields.io/badge/Student-Active-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hands--On%20Projects-Yes-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Student%20Developer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Full--Stack-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Approach-Hands--On-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-orange?style=flat-square" />
 </p>
+
+- Building **real systems**, not just tutorials  
+- Strong interest in **automation, smart systems, and AI-assisted solutions**
+- Comfortable working **independently** from idea → product
 
 ---
 
-## Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-Web-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Programming-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Arduino-Robotics-teal?style=flat-square" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,arduino,git,github" />
-</p>
+## 🏆 Achievements
+- Built **multiple complete systems** used for learning, automation, and management  
+- Designed and developed **modern academic and management platforms**
+- Created **robotics and Arduino-based projects** combining hardware + software
+- Developed **UI/UX-focused applications** with clean, professional layouts
+- Actively mentoring and inspiring other students through tech projects
 
 ---
 
+## 🛠️ Tools & Technologies
 
-## Projects
+### 💻 Programming & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github" />
+</p>
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend / Logic:** Python, C  
+- **Full-Stack Development:** Frontend + Backend integration  
+- **Version Control:** Git & GitHub  
+
+### 🤖 Robotics & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+- Arduino programming  
+- Sensors, automation & embedded systems  
+
+---
+
+## 🎨 Design & Creative Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,figma,blender" />
+</p>
+
+- **Graphic Design** (UI, posters, branding)  
+- **Adobe Photoshop**  
+- **3D Design & Modeling**  
+- **UI/UX Design**  
+- **Photography** (creative & technical understanding)
+
+---
+
+## 🚀 Projects
 - **Sentinel Signals**  
-  AI-powered smart traffic light system that adapts to congestion
+  AI-powered smart traffic light system that adapts to real-time congestion
 
 - **AI Personal Trainer**  
   Arduino-based heart-rate guided fitness system
@@ -56,37 +93,40 @@ I enjoy building clean, practical systems that solve real-world problems.
 - **Automated Trash Bin Robot**  
   Autonomous robot designed to improve cleanliness
 
-- **Acadmic school system**
-  Modern clean , academic systems for schools with core features making it unique
+- **Academic School System**  
+  Modern academic management platform with core features and clean UI
 
-- **Khomes**
-  Ever get tired of looking for a house in Rwanda khomes got your back , helping tourists or locals to find what they are looking for in just minutes
+- **Khomes**  
+  Smart housing platform helping locals and tourists find homes in Rwanda within minutes
 
-- **Fifa tournament system**
-  Ever got stuck in a situation whereby your playing fiffa with your mates and you end up writtign scores on a piece of papper? , i say no to that , i brought a cool system to input points , start tournamnet , see boards , see winner of games all in a cool dynamic system.
+- **FIFA Tournament System**  
+  Dynamic system to manage tournaments, scores, leaderboards, and winners
 
-- **Smart saver**
-  In this generation where many things are good looking there has to be a cool modern way to track your spendings and your incomes to help you save money for future purposes.
+- **Smart Saver**  
+  Modern expense & income tracking system focused on saving and financial awareness
 
-- **New generation academy coding academy website**
-  New generation started a coding academy what other good thing to do than make them a coding academy website to increase interest rate and attract more poeple online.
+- **New Generation Academy – Coding Academy Website**  
+  Designed and developed a website to increase online visibility and student engagement
 
-- **Space robot**
- Space engineered robot that can go to different planets instead of astronauts and can collect samples for our earthly research.
-
-
+- **Space Robot Concept**  
+  Space-engineered robotic system designed to explore planets and collect research samples
 
 ---
 
-## Goals
+## 🎯 Goals
 <p>
   <img src="https://img.shields.io/badge/Goal-Build%20Impactful%20Technology-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Goal-Continuous%20Learning-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-Master%20Full--Stack-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-Aviation%20%26%20Tech-blueviolet?style=flat-square" />
 </p>
+
+- Build technology that **creates real impact**
+- Grow into a **high-level engineer & innovator**
+- Combine **technology, design, and aviation** in the future
 
 ---
 
-## Contact
+## 📫 Contact
 <p>
   <a href="https://www.instagram.com/levi.nyk/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
