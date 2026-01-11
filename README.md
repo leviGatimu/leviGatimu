@@ -45,6 +45,7 @@ I enjoy building clean, practical systems that solve real-world problems.
 
 ---
 
+
 ## Projects
 - **Sentinel Signals**  
   AI-powered smart traffic light system that adapts to congestion
@@ -54,6 +55,26 @@ I enjoy building clean, practical systems that solve real-world problems.
 
 - **Automated Trash Bin Robot**  
   Autonomous robot designed to improve cleanliness
+
+- **Acadmic school system**
+  Modern clean , academic systems for schools with core features making it unique
+
+- **Khomes**
+  Ever get tired of looking for a house in Rwanda khomes got your back , helping tourists or locals to find what they are looking for in just minutes
+
+- **Fifa tournament system**
+  Ever got stuck in a situation whereby your playing fiffa with your mates and you end up writtign scores on a piece of papper? , i say no to that , i brought a cool system to input points , start tournamnet , see boards , see winner of games all in a cool dynamic system.
+
+- **Smart saver**
+  In this generation where many things are good looking there has to be a cool modern way to track your spendings and your incomes to help you save money for future purposes.
+
+- **New generation academy coding academy website**
+  New generation started a coding academy what other good thing to do than make them a coding academy website to increase interest rate and attract more poeple online.
+
+- **Space robot**
+ Space engineered robot that can go to different planets instead of astronauts and can collect samples for our earthly research.
+
+
 
 ---
 
