@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Levi&style=flat-square&color=38BDF8" />
+  <img src="https://komarev.com/ghpvc/?username=levi&style=flat-square&color=38BDF8" />
 </p>
 
 ---
 
 ## About Me
-I’m a student developer with a strong interest in programming, robotics, and AI.  
+I’m a student developer interested in programming, robotics, and AI.  
 I enjoy building clean, practical systems that solve real-world problems.
 
 ---
@@ -47,7 +47,7 @@ I enjoy building clean, practical systems that solve real-world problems.
 
 ## Projects
 - **Sentinel Signals**  
-  AI-powered traffic light system that adapts to congestion
+  AI-powered smart traffic light system that adapts to congestion
 
 - **AI Personal Trainer**  
   Arduino-based heart-rate guided fitness system
@@ -65,16 +65,32 @@ I enjoy building clean, practical systems that solve real-world problems.
 
 ---
 
-## GitHub Stats
+## GitHub Overview
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Levi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levi&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=levi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Contact
-- GitHub: https://github.com/Levi
+<p>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yourgmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
