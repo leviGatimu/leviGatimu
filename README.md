@@ -130,13 +130,9 @@
 <h2 align="center">📈 Live GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=leviGatimu&theme=tokyonight" />
 <img height="165" src="https://streak-stats.demolab.com?user=leviGatimu&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviGatimu&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leviGatimu&theme=tokyo-night" />
