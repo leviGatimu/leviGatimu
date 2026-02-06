@@ -130,8 +130,8 @@
 <h2 align="center">📈 Live GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=leviGatimu&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=leviGatimu&theme=tokyonight" />
+<img height="165" src="https://streak-stats.demolab.com?user=leviGatimu&theme=tokyonight" />
 </p>
 
 <p align="center">
