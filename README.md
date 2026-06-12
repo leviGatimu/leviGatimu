@@ -1,21 +1,17 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=0,2,5,30&text=Levi%20Gatimu&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Student%20Developer%20%C2%B7%20Full-Stack%20%C2%B7%20Robotics%20%26%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
-
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+full-stack+systems+end-to-end;Student+%C2%B7+Class+President+%40+Coding+Academy;Robotics+%2B+AI+%2B+Aviation+enthusiast" alt="typing"/>
 </a>
-
 <br/>
-
 <a href="https://portfolioz-blue.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/levi-gatimu-a0277836b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:getmorelev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/levi.nyk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
-
+<!-- ===================== ABOUT ===================== -->
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About
 
