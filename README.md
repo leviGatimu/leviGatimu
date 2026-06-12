@@ -1,177 +1,120 @@
-<!-- =====================  ANIMATED HERO  ===================== -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Levi%20Gatimu&fontSize=56&fontAlignY=38&animation=twinkling&color=0:0f0c29,50:302b63,100:24243e&fontColor=38BDF8&stroke=38BDF8&strokeWidth=2&font=JetBrains%20Mono"
-  />
-</p>
+<!-- ============================ HERO ============================ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=LEVI%20GATIMU&fontSize=70&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Future%20Pilot&descSize=20&descAlignY=58&descAlign=50&font=JetBrains%20Mono" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Robotics+%2B+AI+%2B+Automation+%F0%9F%A4%96;Drone+Pilot+%7C+Aviation+Dreamer+%F0%9F%9A%81;idea+%E2%86%92+design+%E2%86%92+code+%E2%86%92+ship+%F0%9F%9A%80" alt="Typing SVG"/>
+<br/>
+<a href="https://github.com/leviGatimu"><img src="https://komarev.com/ghpvc/?username=leviGatimu&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" /></a>
+ 
+<img src="https://img.shields.io/badge/📍_Kigali,_Rwanda-0f172a?style=for-the-badge" />
+ 
+<img src="https://img.shields.io/badge/⚡_150_WPM-Monkeytype-0f172a?style=for-the-badge&labelColor=22C55E" />
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Student+Developer+%7C+Builder+%7C+Designer;Full-Stack+%26+Smart+Systems;Robotics+%7C+AI+%7C+Automation;Drone+Pilot+%7C+Aviation+Dreamer;Always+Learning.+Always+Building."
-  />
-</p>
+</div>
+<br/>
+<!-- ============================ ABOUT ============================ -->
+🧑‍🚀 About Me
 
-<p align="center">
-  <a href="https://github.com/leviGatimu">
-    <img src="https://komarev.com/ghpvc/?username=leviGatimu&style=for-the-badge&color=38BDF8" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Rwanda-0f172a?style=for-the-badge&labelColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Focus-Real--World%20Systems-0f172a?style=for-the-badge&labelColor=38BDF8" />
-</p>
+typescriptconst levi = {
+    role:       "Student Developer & Class President @ Coding Academy",
+    location:   "Rwanda 🇷🇼",
+    code:       ["JavaScript", "PHP", "Python", "C", "HTML/CSS"],
+    passions:   ["Software Engineering", "Robotics", "AI", "Design", "Aviation"],
+    hardware:   ["Arduino", "Drones"],
+    highlight:  "Awarded a laptop by H.E. President Paul Kagame 🏆",
+    dream:      "Professional pilot — merging aviation + technology ✈️",
+    motto:      "Always learning. Always building."
+};
 
-<p align="center">
-  <strong>Student • Full-Stack Developer • Robotics & Aviation Enthusiast</strong><br/>
-  Building modern systems with clean design and real impact.
-</p>
+<br/>
+<!-- ============================ TECH STACK ============================ -->
+🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:38BDF8,50:8B5CF6,100:22C55E" />
-</p>
+<div align="center">
+💻 Languages & Core
 
-<!-- =====================  QUICK SNAPSHOT  ===================== -->
-<h2 align="center">⚡ Snapshot</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,c&theme=dark" />
+⚙️ Tools & Platforms
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Class%20President-Year%201%20Coding%20Academy-0f172a?style=for-the-badge&labelColor=22C55E" />
-  <img src="https://img.shields.io/badge/Awarded%20Laptop-H.E.%20Paul%20Kagame-0f172a?style=for-the-badge&labelColor=F59E0B" />
-  <img src="https://img.shields.io/badge/Typing%20Speed-150%20WPM%20(Monkeytype)-0f172a?style=for-the-badge&labelColor=38BDF8" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma,blender,photoshop&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/🎬_Video_Editing-Premiere_Pro_•_CapCut-0f172a?style=for-the-badge&labelColor=38BDF8" />
+<img src="https://img.shields.io/badge/🎨_UI/UX-Modern_Design_Systems-0f172a?style=for-the-badge&labelColor=8B5CF6" />
+<img src="https://img.shields.io/badge/🖼️_Photo_Editing-Photoshop_•_Photopea-0f172a?style=for-the-badge&labelColor=22C55E" />
+</div>
+<br/>
+<!-- ============================ PROJECTS ============================ -->
+🚀 Featured Builds
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:22C55E,50:38BDF8,100:8B5CF6" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+🧠 Full-Stack & Systems
 
-<!-- =====================  ABOUT  ===================== -->
-<h2 align="center">👋 About</h2>
+ProjectWhat it does🏫 New Generation Academic SystemModern school management platform✅ Homework To-Do ListStudent productivity system🏠 KhomesSmart housing finder⚽ FIFA Tournament SystemLeaderboards + live scoring🌐 Coding Academy WebsiteSchool visibility & engagement
 
-<p align="center">
-  I’m a <strong>student developer and builder</strong> passionate about <strong>software engineering</strong>, <strong>robotics</strong>, <strong>AI</strong>, <strong>design</strong>, and <strong>aviation</strong>.<br/>
-  I like building real systems end-to-end: <strong>idea → design → code → ship</strong>.
-</p>
+</td>
+<td width="50%" valign="top">
+🤖 Robotics & AI Concepts
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:8B5CF6,50:38BDF8,100:F97316" />
-</p>
+ProjectWhat it does🚦 Sentinel SignalsAI-powered traffic control💪 AI Personal TrainerArduino + heart-rate coaching🗑️ Auto Trash Bin RobotAutonomous cleanliness tech🛰️ Space Robot ConceptExploration & sample research
 
-<!-- =====================  SKILLS  ===================== -->
-<h2 align="center">🧩 Skills & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,git,github&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,figma,photoshop,blender&perline=8" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Video%20Editing-CapCut%20%7C%20Adobe%20Premiere%20Pro-0f172a?style=for-the-badge&labelColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Photo%20Editing-Photopea%20%7C%20Photoshop-0f172a?style=for-the-badge&labelColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Modern%20Layouts%20%26%20Design%20Systems-0f172a?style=for-the-badge&labelColor=22C55E" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:F97316,50:38BDF8,100:22C55E" />
-</p>
-
-<!-- =====================  DRONES & AVIATION  ===================== -->
-<h2 align="center">🚁 Drones & ✈️ Aviation</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Drone%20Pilot-Hands--On%20Flying%20Experience-0f172a?style=for-the-badge&labelColor=22C55E" />
-  <img src="https://img.shields.io/badge/License-Almost%20Unmanned%20Pilot%20Licensed-0f172a?style=for-the-badge&labelColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Training-Completed%20Many%20VPPLs-0f172a?style=for-the-badge&labelColor=8B5CF6" />
-</p>
-
-<p align="center">
-  Dream: become a <strong>professional pilot</strong> and combine <strong>aviation + technology</strong> to build the future.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:38BDF8,50:0ea5e9,100:1e293b" />
-</p>
-
-<!-- =====================  PROJECTS  ===================== -->
-<h2 align="center">🚀 Projects</h2>
-
-<p align="center">
-  <i>Selected work (based on my GitHub portfolio)</i>
-</p>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3>🧠 Full-Stack & Systems</h3>
-      <ul>
-        <li><b>New Generation Academic System</b> — modern school platform</li>
-        <li><b>Homework To-Do List</b> — student productivity system</li>
-        <li><b>Khomes</b> — smart housing finder concept</li>
-        <li><b>FIFA Tournament System</b> — leaderboards + scoring</li>
-        <li><b>Coding Academy Website</b> — visibility & engagement</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🤖 Robotics & Concepts</h3>
-      <ul>
-        <li><b>Sentinel Signals</b> — AI traffic signal concept</li>
-        <li><b>AI Personal Trainer</b> — Arduino + heart-rate guidance</li>
-        <li><b>Automated Trash Bin Robot</b> — autonomous cleanliness tech</li>
-        <li><b>Space Robot Concept</b> — exploration + research samples</li>
-      </ul>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+<br/>
+<!-- ============================ AVIATION ============================ -->
+🚁 Beyond the Keyboard
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:22C55E,50:F97316,100:38BDF8" />
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/🚁_Drone_Pilot-Hands--On_Flight_Experience-0f172a?style=for-the-badge&labelColor=22C55E" />
+<img src="https://img.shields.io/badge/📜_UPL-Nearly_Licensed-0f172a?style=for-the-badge&labelColor=38BDF8" />
+<img src="https://img.shields.io/badge/🎓_Training-Multiple_VPPLs_Completed-0f172a?style=for-the-badge&labelColor=8B5CF6" />
+The mission: become a professional pilot and fuse aviation + technology to build the future. ✈️
 
-<!-- =====================  STATS (ANIMATED / DYNAMIC)  ===================== -->
-<h2 align="center">📈 Live GitHub Stats</h2>
+</div>
+<br/>
+<!-- ============================ STATS ============================ -->
+📊 GitHub Analytics
 
-<p align="center">
-<img height="165" src="https://streak-stats.demolab.com?user=leviGatimu&theme=tokyonight" />
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=leviGatimu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviGatimu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=leviGatimu&theme=tokyonight&hide_border=true&background=00000000" />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leviGatimu&theme=tokyo-night&hide_border=true&bg_color=00000000&color=38BDF8&line=8B5CF6&point=22C55E" width="100%"/>
+</div>
+<!-- ============================ SNAKE ============================ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+<br/>
+<!-- ============================ CONNECT ============================ -->
+🤝 Let's Connect
+
+<div align="center">
+<a href="https://www.linkedin.com/in/levi-gatimu-a0277836b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Levi_Gatimu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/levi.nyk/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@levi.nyk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:getmorelev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-getmorelev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/><br/>
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leviGatimu&theme=tokyo-night" />
-</p>
+"Always building. Always learning. Always flying higher." 🚀
 
-<!-- OPTIONAL: Contribution Snake (needs a GitHub Action to generate) -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake.svg" />
-</p>
--->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:8B5CF6,50:38BDF8,100:22C55E" />
-</p>
 
-<!-- =====================  CONTACT  ===================== -->
-<h2 align="center">📫 Connect</h2>
-
-<p align="center">
-  <a href="https://www.instagram.com/levi.nyk/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/levi-gatimu-a0277836b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:getmorelev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling&color=0:0f0c29,50:302b63,100:24243e"
-  />
-</p>
-
-<p align="center">
-  🚀 <i>Always building. Alwa
-::contentReference[oaicite:0]{index=0}
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0c29,50:302b63,100:24243e&section=footer" width="100%"/>
+</div>
