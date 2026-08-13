@@ -1,10 +1,17 @@
-<!-- ===================== HERO HEADER ===================== -->
+<!-- ===================== HERO HEADER (ASCII ART) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=LEVI%20GATIMU&fontSize=70&fontAlignY=35&animation=twinkling&color=0:0d1117,40:161b22,100:38BDF8&fontColor=38BDF8&stroke=38BDF8&strokeWidth=2&font=JetBrains%20Mono" width="100%" />
+<pre align="center">
+ ██╗     ███████╗██╗   ██╗██╗    ██████╗  █████╗ ████████╗██╗███╗   ██╗██╗   ██╗
+ ██║     ██╔════╝██║   ██║██║   ██╔════╝ ██╔══██╗╚══██╔══╝██║████╗  ██║██║   ██║
+ ██║     █████╗  ██║   ██║██║   ██║  ███╗███████║   ██║   ██║██╔██╗ ██║██║   ██║
+ ██║     ██╔══╝  ╚██╗ ██╔╝██║   ██║   ██║██╔══██║   ██║   ██║██║╚██╗██║██║   ██║
+ ███████╗███████╗ ╚████╔╝ ██║   ╚██████╔╝██║  ██║   ██║   ██║██║ ╚████║╚██████╔╝
+ ╚══════╝╚══════╝  ╚═══╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+</pre>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%3C+Full-Stack+%26+Embedded+Systems+Developer+%2F%3E;%3C+Class+President+%40+SPES+Coding+Academy+%2F%3E;%3C+Robotics+%2B+AI+%2B+Aviation+Tech+%2F%3E;Building+Real-World+Systems+That+Scale." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%3C+Full-Stack+%26+Embedded+Systems+Developer+%2F%3E;%3C+Class+President+%40+SPES+Coding+Academy+%2F%3E;%3C+Robotics+%2B+AI+%2B+Aviation+Tech+%2F%3E;Building+Real-World+Systems+That+Scale." />
 </p>
 
 <p align="center">
@@ -150,10 +157,4 @@
   <a href="mailto:getmorelev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:0d1117,50:161b22,100:38BDF8" width="100%" />
 </p>
