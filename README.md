@@ -92,8 +92,8 @@
         <b>🎓 New Generation Academic System</b><br/>
         <i>Modern, modular school administrative portal for exams, grading & management.</i>
         <br/><br/>
-        <b>🧁 Joyous Kitchen Management</b><br/>
-        <i>Custom inventory, tab tracking & order desk app built for business operations.</i>
+        <b>Trace</b><br/>
+        <i>A private, local activity history for Windows. Trace quietly records which applications you use and when, and gives you a searchable history of your day.</i>
         <br/><br/>
         <b>⚽ FIFA Tournament Engine</b><br/>
         <i>Dynamic leaderboard, tournament bracket router, and scoring system.</i>
@@ -107,9 +107,6 @@
         <br/><br/>
         <b>🗑️ Autonomous Trash Bin Robot</b><br/>
         <i>Microcontroller-driven self-navigating waste management robot.</i>
-        <br/><br/>
-        <b>🏋️ AI Personal Trainer</b><br/>
-        <i>Hardware-integrated biometric tracker & real-time workout guide.</i>
         <br/><br/>
         <b>🚀 Space Surface Exploration Rover</b><br/>
         <i>Autonomous planetary navigation concept engineered for sample collection.</i>
