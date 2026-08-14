@@ -1,5 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 <div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hello, I'm Levi</h2>
+
   <pre>
                  ██╗      ███████╗██╗   ██╗██╗  
                  ██║      ██╔════╝██║   ██║██║  
@@ -11,9 +13,10 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%3C+Full-Stack+%26+Embedded+Systems+Developer+%2F%3E;%3C+Class+President+%40+SPES+Coding+Academy+%2F%3E;%3C+Robotics+%2B+AI+%2B+Aviation+Tech+%2F%3E;Building+Real-World+Systems+That+Scale." alt="Typing effect" />
   
-  <br/>
+  <br/><br/>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Animated Neon Divider" />
+  <!-- Animated Developer GIF -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" alt="Animated Developer" />
 
   <br/><br/>
 
@@ -24,7 +27,7 @@
   <img src="https://img.shields.io/badge/SPEED-150_WPM-0D1117?style=for-the-badge&labelColor=0D1117&color=22C55E&logo=monkeytype&logoColor=22C55E" alt="Speed" />
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ===================== HIGHLIGHT CARDS ===================== -->
 <table width="100%" align="center">
@@ -56,7 +59,7 @@
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
 <!-- ===================== TECH STACK ===================== -->
 <div align="center">
@@ -75,11 +78,7 @@
   </a>
 </div>
 
-<br/>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Animated Neon Divider" />
-</div>
-<br/>
+<br/><br/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <div align="center">
@@ -122,11 +121,7 @@
   </tbody>
 </table>
 
-<br/>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Animated Neon Divider" />
-</div>
-<br/>
+<br/><br/>
 
 <!-- ===================== STATS & METRICS ===================== -->
 <div align="center">
@@ -138,7 +133,7 @@
   <br/><br/>
   
   <!-- ANIMATED GITHUB SNAKE -->
-  <!-- Note: To make this snake work, you need to set up the GitHub Action in your repo! -->
+  <!-- Note: Requires the GitHub Snake Action configured in your .github/workflows directory -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake.svg">
@@ -147,7 +142,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ===================== CONNECT ===================== -->
 <div align="center">
