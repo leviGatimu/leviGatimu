@@ -15,7 +15,8 @@
   
   <br/><br/>
   
-
+  <!-- Animated Developer GIF -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" alt="Animated Developer" />
 
   <br/><br/>
 
@@ -126,7 +127,9 @@
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> Development Telemetry</h2>
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=38bdf8&border_color=30363d&hide_border=false" alt="GitHub Stats" />
+  <!-- UPDATED: Using fallback Vercel URL for the GitHub Stats to fix the loading issue -->
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leviGatimu&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=38bdf8&border_color=30363d&hide_border=false" alt="GitHub Stats" />
+  
   <img height="165" src="https://streak-stats.demolab.com?user=leviGatimu&theme=tokyonight&background=0D1117&border=30363D&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&sideTitle=8B949E&dates=8B949E" alt="GitHub Streak" />
   
   <br/><br/>
