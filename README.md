@@ -127,21 +127,9 @@
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> Development Telemetry</h2>
   
-  <!-- UPDATED: Using fallback Vercel URL for the GitHub Stats to fix the loading issue -->
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leviGatimu&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=38bdf8&border_color=30363d&hide_border=false" alt="GitHub Stats" />
   
   <img height="165" src="https://streak-stats.demolab.com?user=leviGatimu&theme=tokyonight&background=0D1117&border=30363D&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&sideTitle=8B949E&dates=8B949E" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <!-- ANIMATED GITHUB SNAKE -->
-  <!-- Note: Requires the GitHub Snake Action configured in your .github/workflows directory -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-
 </div>
 
 <br/><br/>
