@@ -11,6 +11,10 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%3C+Full-Stack+%26+Embedded+Systems+Developer+%2F%3E;%3C+Class+President+%40+SPES+Coding+Academy+%2F%3E;%3C+Robotics+%2B+AI+%2B+Aviation+Tech+%2F%3E;Building+Real-World+Systems+That+Scale." alt="Typing effect" />
   
+  <br/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Animated Neon Divider" />
+
   <br/><br/>
 
   <a href="https://github.com/leviGatimu">
@@ -56,8 +60,7 @@
 
 <!-- ===================== TECH STACK ===================== -->
 <div align="center">
-  <img src="https://img.shields.io/badge/---%20SYSTEM%20STACK%20%26%20TOOLKIT%20----0D1117?style=for-the-badge&labelColor=0D1117&color=38BDF8" alt="Tech Stack Header"/>
-  <br/><br/>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> System Stack & Toolkit</h2>
   
   <h3>Languages, Frameworks & Databases</h3>
   <a href="https://skillicons.dev">
@@ -73,18 +76,21 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Animated Neon Divider" />
+</div>
+<br/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <div align="center">
-  <img src="https://img.shields.io/badge/---%20FEATURED%20SYSTEMS%20%26%20BUILDS%20----0D1117?style=for-the-badge&labelColor=0D1117&color=8B5CF6" alt="Projects Header"/>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Systems & Builds</h2>
 </div>
-<br/>
 
 <table width="100%">
   <thead>
     <tr>
       <th width="50%" align="center"><h3>💻 Full-Stack & Platforms</h3></th>
-      <th width="50%" align="center"><h3>🤖 Hardware, AI & Robotics</h3></th>
+      <th width="50%" align="center"><h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" /> Hardware, AI & Robotics</h3></th>
     </tr>
   </thead>
   <tbody>
@@ -117,26 +123,35 @@
 </table>
 
 <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Animated Neon Divider" />
+</div>
+<br/>
 
 <!-- ===================== STATS & METRICS ===================== -->
 <div align="center">
-  <img src="https://img.shields.io/badge/---%20DEVELOPMENT%20TELEMETRY%20----0D1117?style=for-the-badge&labelColor=0D1117&color=22C55E" alt="Metrics Header"/>
-  <br/><br/>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> Development Telemetry</h2>
   
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=38bdf8&border_color=30363d&hide_border=false" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=leviGatimu&theme=tokyonight&background=0D1117&border=30363D&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&sideTitle=8B949E&dates=8B949E" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leviGatimu&theme=react-dark&bg_color=0d1117&hide_border=false&border_color=30363d&line=38bdf8&point=8b5cf6" width="100%" alt="Activity Graph" />
+  <!-- ANIMATED GITHUB SNAKE -->
+  <!-- Note: To make this snake work, you need to set up the GitHub Action in your repo! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leviGatimu/leviGatimu/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+
 </div>
 
 <br/>
 
 <!-- ===================== CONNECT ===================== -->
 <div align="center">
-  <img src="https://img.shields.io/badge/---%20CONNECT%20%26%20COLLABORATE%20----0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B" alt="Connect Header"/>
-  <br/><br/>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Connect & Collaborate</h2>
   
   <a href="https://github.com/leviGatimu">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
