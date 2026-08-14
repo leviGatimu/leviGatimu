@@ -59,16 +59,16 @@
   <img src="https://img.shields.io/badge/---%20SYSTEM%20STACK%20%26%20TOOLKIT%20----0D1117?style=for-the-badge&labelColor=0D1117&color=38BDF8" alt="Tech Stack Header"/>
   <br/><br/>
   
-  <h3>Languages & Frameworks</h3>
+  <h3>Languages, Frameworks & Databases</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,php,java,c,cpp,html,css,tailwind&perline=11" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,php,java,c,cpp,html,css,tailwind,react,nextjs,express,mysql,mongodb,postgres,supabase,electron,vite,jest,postman,bash,md&perline=12" alt="Languages and Frameworks" />
   </a>
   
   <br/><br/>
   
-  <h3>Hardware, Design & Creative Engine</h3>
+  <h3>Hardware, Design & Environment</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,figma,ps,blender,git,github,vscode,linux&perline=8" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,figma,ps,pr,blender,git,github,vscode,linux,fedora,docker&perline=12" alt="Tools and Hardware" />
   </a>
 </div>
 
