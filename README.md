@@ -2,15 +2,6 @@
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hello, I'm Levi</h2>
 
-  <pre>
-                 ██╗      ███████╗██╗   ██╗██╗  
-                 ██║      ██╔════╝██║   ██║██║  
-                 ██║      █████╗  ██║   ██║██║  
-                 ██║      ██╔══╝  ╚██╗ ██╔╝██║  
-                 ███████╗███████╗  ╚████╔╝ ██║  
-                 ╚══════╝╚══════╝   ╚═══╝  ╚═╝  
-  </pre>
-
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=%3C+Full-Stack+%26+Embedded+Systems+Developer+%2F%3E;%3C+Class+President+%40+SPES+Coding+Academy+%2F%3E;%3C+Robotics+%2B+AI+%2B+Aviation+Tech+%2F%3E;Building+Real-World+Systems+That+Scale." alt="Typing effect" />
   
   <br/><br/>
