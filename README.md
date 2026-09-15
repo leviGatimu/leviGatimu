@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="https://levigatimu.com">
+<a href="[https://levigatimu.com](https://portfolio-73dkgl3sg-levigatimus-projects.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/leviGatimu">
@@ -169,7 +169,7 @@ Exploring aircraft systems, flight operations, navigation and aviation technolog
 ### Let's build something.
 
 **[GitHub](https://github.com/leviGatimu)** ·
-**[Portfolio](https://levigatimu.com)** ·
+**[Portfolio]([https://levigatimu.com](https://portfolio-73dkgl3sg-levigatimus-projects.vercel.app/))** ·
 **[LinkedIn](https://www.linkedin.com/in/levi-gatimu-a0277836b)**
 
 <br/>
