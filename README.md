@@ -6,66 +6,79 @@
 
 ### Student Developer · Full-Stack · AI · Robotics
 
-Building software, intelligent systems, and things that actually work.
+**Building software, intelligent systems, and things that actually work.**
 
 <br/>
 
 <a href="https://levigatimu.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/leviGatimu">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/levi-gatimu-a0277836b">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:getmorelev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:8B5CF6&height=110&section=header" width="100%"/>
 
 </div>
 
 ---
-
-<!-- ======================== ABOUT ======================== -->
 
 ## About
 
 I'm a student developer at **NGA Coding Academy** interested in building across software, AI, robotics, and embedded systems.
 
-I enjoy taking an idea from **concept → prototype → working product**.
+I enjoy taking an idea from **concept → prototype → working product** — learning whatever is necessary along the way.
 
-Currently exploring deeper software engineering, AI systems, robotics, and real-world technology projects.
+Currently focused on becoming a stronger software engineer while building real-world projects.
 
 ---
 
-<!-- ======================== HIGHLIGHTS ======================== -->
-
 <div align="center">
 
-| **FULL-STACK** | **ROBOTICS** | **AVIATION** |
-|:---:|:---:|:---:|
-| Web & Desktop Systems | Embedded & Hardware | Aviation Technology |
-| React · Next.js · Node | Arduino · C/C++ | Flight · UAS · Simulators |
+|     **FULL-STACK**     |     **AI & SYSTEMS**     |     **ROBOTICS**    |     **AVIATION**     |
+| :--------------------: | :----------------------: | :-----------------: | :------------------: |
+|  Web · Desktop · APIs  | Intelligent Applications | Embedded · Hardware |  Aviation Technology |
+| React · Next.js · Node |      AI · Automation     |   Arduino · C/C++   | UAS · Flight Systems |
 
 </div>
 
 ---
-
-<!-- ======================== STACK ======================== -->
 
 ## Tech Stack
 
+### Languages
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,react,nextjs,nodejs,express,laravel,postgres,mysql,supabase,electron,arduino,git,github,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,php,rust,go,kotlin,swift,dart,bash&perline=14" />
+
+</div>
+
+### Frameworks & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,vite,tailwind,electron,flutter&perline=12" />
+
+</div>
+
+### Data, Tools & Hardware
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,sqlite,git,github,docker,linux,vscode,figma,arduino,raspberrypi,blender,ps,pr&perline=12" />
 
 </div>
 
 ---
-
-<!-- ======================== PROJECTS ======================== -->
 
 ## Selected Projects
 
@@ -74,22 +87,24 @@ Currently exploring deeper software engineering, AI systems, robotics, and real-
 <td width="50%" valign="top">
 
 ### Tembera
-Digital guide to real places across Rwanda.
+
+A digital guide to real places across Rwanda — helping people discover destinations, services and experiences.
 
 `Next.js` `React` `PostgreSQL`
 
-→ **[Live](#)** · **[GitHub](#)**
+**[Live →](#)** · **[GitHub →](#)**
 
 </td>
 
 <td width="50%" valign="top">
 
 ### Study Flow
-A study workspace combining notes, AI tutoring, quizzes and exam preparation.
+
+A study workspace combining notes, AI tutoring, quizzes, flashcards and exam preparation.
 
 `Next.js` `AI` `Supabase`
 
-→ **[Live](https://study-flow-app-ashen.vercel.app)** · **[GitHub](#)**
+**[Live →](https://study-flow-app-ashen.vercel.app)** · **[GitHub →](#)**
 
 </td>
 </tr>
@@ -98,22 +113,24 @@ A study workspace combining notes, AI tutoring, quizzes and exam preparation.
 <td width="50%" valign="top">
 
 ### Trace
-A private local Windows activity tracker with searchable history.
+
+A private, local Windows activity tracker with searchable application history.
 
 `Electron` `JavaScript` `SQLite`
 
-→ **[GitHub](#)**
+**[GitHub →](#)**
 
 </td>
 
 <td width="50%" valign="top">
 
 ### Sentinel Signals
-A traffic-system simulation exploring adaptive traffic control.
+
+A traffic-system simulation exploring adaptive traffic control and intelligent road management.
 
 `Python` `AI` `Simulation`
 
-→ **[GitHub](#)**
+**[GitHub →](#)**
 
 </td>
 </tr>
@@ -123,26 +140,24 @@ A traffic-system simulation exploring adaptive traffic control.
 
 ## Beyond Software
 
-**Leadership**  
-Former class president at NGA Coding Academy.
+**Leadership**
+Class leadership and student collaboration at NGA Coding Academy.
 
-**Robotics & Embedded Systems**  
+**Robotics & Embedded Systems**
 Building with microcontrollers, sensors, electronics and physical systems.
 
-**Aviation**  
+**Aviation**
 Exploring aircraft systems, flight operations, navigation and aviation technology.
 
 ---
-
-<!-- ======================== GITHUB ======================== -->
 
 <div align="center">
 
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=leviGatimu&hide_border=true&theme=transparent" height="160"/>
+<img src="https://streak-stats.demolab.com?user=leviGatimu&hide_border=true&theme=transparent" height="165"/>
 
 </div>
 
@@ -152,12 +167,12 @@ Exploring aircraft systems, flight operations, navigation and aviation technolog
 
 ### Let's build something.
 
-<a href="https://github.com/leviGatimu">GitHub</a> ·
-<a href="https://levigatimu.com">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/levi-gatimu-a0277836b">LinkedIn</a>
+**[GitHub](https://github.com/leviGatimu)** ·
+**[Portfolio](https://levigatimu.com)** ·
+**[LinkedIn](https://www.linkedin.com/in/levi-gatimu-a0277836b)**
 
-<br/><br/>
+<br/>
 
-<sub>Rwanda 🇷🇼 · Building, learning, experimenting.</sub>
+<sub>Rwanda 🇷🇼 · Building · Learning · Experimenting</sub>
 
 </div>
