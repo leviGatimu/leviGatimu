@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="[https://levigatimu.com](https://portfolio-73dkgl3sg-levigatimus-projects.vercel.app/)">
+<a href="https://levigatimu.com](https://portfolio-73dkgl3sg-levigatimus-projects.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/leviGatimu">
