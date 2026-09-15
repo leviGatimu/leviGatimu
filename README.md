@@ -93,7 +93,7 @@ A digital guide to real places across Rwanda — helping people discover destina
 
 `Next.js` `React` `PostgreSQL`
 
-**[Live →](#)** · **[GitHub →](#)**
+**[Live →](https://tembera-rwanda-lyart.vercel.app/)** · **[GitHub →](https://github.com/couper117/tembera-rwanda)**
 
 </td>
 
