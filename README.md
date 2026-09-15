@@ -1,6 +1,7 @@
 <!-- ======================== HERO ======================== -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:8B5CF6&height=110&section=header" width="100%"/>
 
 # Levi Gatimu
 
@@ -25,7 +26,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:8B5CF6&height=110&section=header" width="100%"/>
+
 
 </div>
 
