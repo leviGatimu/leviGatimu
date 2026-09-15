@@ -1,171 +1,163 @@
+<!-- ======================== HERO ======================== -->
+
+<div align="center">
+
 # Levi Gatimu
 
-**Student Developer · Full-Stack · AI · Robotics**
+### Student Developer · Full-Stack · AI · Robotics
 
-I build software, embedded systems, and experimental products that solve real problems.
+Building software, intelligent systems, and things that actually work.
 
-Currently studying software development at **NGA Coding Academy**, where I work across full-stack development, robotics, embedded systems, and AI.
+<br/>
 
-I'm particularly interested in turning an idea into something people can actually use — from the first prototype to deployment.
+<a href="https://levigatimu.com">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/levi-gatimu-a0277836b">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:getmorelev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-[Portfolio](https://levigatimu.com) · [LinkedIn](https://www.linkedin.com/in/levi-gatimu-a0277836b) · [Email](mailto:getmorelev@gmail.com)
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=100&section=header" width="100%"/>
+
+</div>
 
 ---
 
-## Selected Work
+<!-- ======================== ABOUT ======================== -->
+
+## About
+
+I'm a student developer at **NGA Coding Academy** interested in building across software, AI, robotics, and embedded systems.
+
+I enjoy taking an idea from **concept → prototype → working product**.
+
+Currently exploring deeper software engineering, AI systems, robotics, and real-world technology projects.
+
+---
+
+<!-- ======================== HIGHLIGHTS ======================== -->
+
+<div align="center">
+
+| **FULL-STACK** | **ROBOTICS** | **AVIATION** |
+|:---:|:---:|:---:|
+| Web & Desktop Systems | Embedded & Hardware | Aviation Technology |
+| React · Next.js · Node | Arduino · C/C++ | Flight · UAS · Simulators |
+
+</div>
+
+---
+
+<!-- ======================== STACK ======================== -->
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,react,nextjs,nodejs,express,laravel,postgres,mysql,supabase,electron,arduino,git,github,figma&perline=10" />
+
+</div>
+
+---
+
+<!-- ======================== PROJECTS ======================== -->
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Tembera
+Digital guide to real places across Rwanda.
 
-A digital guide to real places in Rwanda, designed to help people discover destinations, services, and experiences across the country.
+`Next.js` `React` `PostgreSQL`
 
-**Focus:** Product Design · Full-Stack Development · Tourism Technology
+→ **[Live](#)** · **[GitHub](#)**
 
-**Built with:** Next.js · React · PostgreSQL · Supabase
+</td>
 
-[Live Project](#) · [Repository](#)
-
----
+<td width="50%" valign="top">
 
 ### Study Flow
+A study workspace combining notes, AI tutoring, quizzes and exam preparation.
 
-A study workspace designed to bring notes, schedules, AI tutoring, quizzes, flashcards, and exam preparation into one place.
+`Next.js` `AI` `Supabase`
 
-**Focus:** Education Technology · AI · Product Design
+→ **[Live](https://study-flow-app-ashen.vercel.app)** · **[GitHub](#)**
 
-**Built with:** Next.js · React · TypeScript · AI APIs
+</td>
+</tr>
 
-[Live Project](https://study-flow-app-ashen.vercel.app) · [Repository](#)
-
----
+<tr>
+<td width="50%" valign="top">
 
 ### Trace
+A private local Windows activity tracker with searchable history.
 
-A local Windows activity tracker that records application usage and provides a searchable history of activity on the machine.
+`Electron` `JavaScript` `SQLite`
 
-**Focus:** Desktop Software · Local Data · Privacy
+→ **[GitHub](#)**
 
-**Built with:** Electron · JavaScript · SQLite
+</td>
 
-[Repository](#)
-
----
+<td width="50%" valign="top">
 
 ### Sentinel Signals
+A traffic-system simulation exploring adaptive traffic control.
 
-An intelligent traffic-system concept exploring how traffic signals can respond dynamically to changing road conditions and congestion.
+`Python` `AI` `Simulation`
 
-**Focus:** Intelligent Transport · Simulation · AI · Robotics
+→ **[GitHub](#)**
 
-[Repository](#)
-
----
-
-### Wixy
-
-A communication and interview-learning platform designed around interactive lessons and guided practice.
-
-**Focus:** Communication · Education · AI
-
-**Built with:** Next.js · Supabase · Gemini · ElevenLabs
-
-[Repository](#)
+</td>
+</tr>
+</table>
 
 ---
 
-### Robotics & Embedded Systems
+## Beyond Software
 
-I also build physical systems using microcontrollers, sensors, electronics, and mechanical components.
+**Leadership**  
+Former class president at NGA Coding Academy.
 
-Projects have included autonomous robotics, interactive hardware, embedded interfaces, and experimental navigation systems.
+**Robotics & Embedded Systems**  
+Building with microcontrollers, sensors, electronics and physical systems.
 
-**Tools:** Arduino · C/C++ · KiCad · Sensors · Electronics · 3D Printing
-
----
-
-## What I Build
-
-**Full-Stack Applications**  
-Web applications, dashboards, platforms, APIs, and database-backed systems.
-
-**AI Systems**  
-AI-assisted products, intelligent interfaces, educational tools, and experimental systems.
-
-**Embedded & Robotics**  
-Microcontroller-based systems, sensors, automation, robotics, and physical prototypes.
-
-**Product & UI**  
-Interfaces focused on clarity, usability, and turning complicated systems into simple experiences.
+**Aviation**  
+Exploring aircraft systems, flight operations, navigation and aviation technology.
 
 ---
 
-## Technologies
+<!-- ======================== GITHUB ======================== -->
 
-**Languages**
+<div align="center">
 
-`JavaScript` `TypeScript` `Python` `C` `C++` `Java` `PHP`
+## GitHub Activity
 
-**Frontend**
+<img src="https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&hide_border=true&theme=transparent" height="160"/>
 
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+<img src="https://streak-stats.demolab.com?user=leviGatimu&hide_border=true&theme=transparent" height="160"/>
 
-**Backend & Data**
-
-`Node.js` `Express` `Laravel` `PostgreSQL` `MySQL` `MongoDB` `Supabase`
-
-**Desktop & Hardware**
-
-`Electron` `Arduino` `KiCad`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Figma` `Photoshop` `Premiere Pro`
+</div>
 
 ---
 
-## Beyond Coding
+<div align="center">
 
-### Leadership
+### Let's build something.
 
-Previously served as a **class president at NGA Coding Academy**, working with students and helping coordinate activities and communication.
+<a href="https://github.com/leviGatimu">GitHub</a> ·
+<a href="https://levigatimu.com">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/levi-gatimu-a0277836b">LinkedIn</a>
 
-### Robotics
+<br/><br/>
 
-I enjoy working beyond the screen — designing and building systems involving electronics, sensors, microcontrollers, and robotics.
+<sub>Rwanda 🇷🇼 · Building, learning, experimenting.</sub>
 
-### Aviation
-
-Aviation is a major long-term interest of mine. I spend time learning about aircraft systems, flight operations, navigation, and aviation technology.
-
----
-
-## Currently
-
-I'm currently focused on:
-
-- Building better full-stack products
-- Deepening my understanding of software engineering
-- Learning data structures and algorithms
-- Working with C, C++, JavaScript, and Java
-- Exploring AI and robotics
-- Building projects with real-world use cases
-- Becoming a stronger problem solver rather than relying on frameworks alone
-
----
-
-## GitHub
-
-![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&hide_border=true&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=leviGatimu&hide_border=true&theme=transparent)
-
----
-
-## Let's Connect
-
-[GitHub](https://github.com/leviGatimu) · [LinkedIn](https://www.linkedin.com/in/levi-gatimu-a0277836b) · [Instagram](https://www.instagram.com/levi.nyk/) · [Email](mailto:getmorelev@gmail.com)
-
----
-
-<p align="center">
-  Building, learning, experimenting.
-</p>
+</div>
