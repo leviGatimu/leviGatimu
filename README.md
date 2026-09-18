@@ -131,7 +131,7 @@ Rwandas central sports application to keep up with latest sports news and matche
 
 `Python` `AI` `Simulation`
 
-**[GitHub →](https://github.com/couper117/platform)** .  **[Live →]([https://study-flow-app-ashen.vercel.app](https://rwasport.vercel.app/))**
+**[Live →](https://rwasport.vercel.app/)** · **[GitHub →](https://github.com/couper117/platform)**
 
 </td>
 </tr>
