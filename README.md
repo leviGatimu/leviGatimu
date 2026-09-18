@@ -169,7 +169,7 @@ Exploring aircraft systems, flight operations, navigation and aviation technolog
 ### Let's build something.
 
 **[GitHub](https://github.com/leviGatimu)** ·
-**[Portfolio]([https://levigatimu.com](https://portfolio-73dkgl3sg-levigatimus-projects.vercel.app/))** ·
+**[Portfolio](levigatimu.vercel.app)** ·
 **[LinkedIn](https://www.linkedin.com/in/levi-gatimu-a0277836b)**
 
 <br/>
