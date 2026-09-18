@@ -119,7 +119,7 @@ A private, local Windows activity tracker with searchable application history.
 
 `Electron` `JavaScript` `SQLite`
 
-**[GitHub →](#)**
+**[GitHub →](https://github.com/leviGatimu/Trace)**
 
 </td>
 
