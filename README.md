@@ -158,7 +158,7 @@ Exploring aircraft systems, flight operations, navigation and aviation technolog
 
 <img src="https://ghstats.dev/api/card?username=leviGatimu" height="180"/>
 <img src="https://streak-stats.demolab.com?user=leviGatimu&hide_border=true&theme=transparent" height="165"/>
-<img src="https://streak-stats.demolab.com?user=leviGatimu&hide_border=true&theme=transparent" height="165"/>
+
 <div align="center">
 
 ### Let's build something.
