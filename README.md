@@ -125,13 +125,13 @@ A private, local Windows activity tracker with searchable application history.
 
 <td width="50%" valign="top">
 
-### Sentinel Signals
+### RWA-SPORT
 
-A traffic-system simulation exploring adaptive traffic control and intelligent road management.
+Rwandas central sports application to keep up with latest sports news and matches!
 
 `Python` `AI` `Simulation`
 
-**[GitHub →](#)**
+**[GitHub →](https://github.com/couper117/platform)** .  **[Live →]([https://study-flow-app-ashen.vercel.app](https://rwasport.vercel.app/))**
 
 </td>
 </tr>
