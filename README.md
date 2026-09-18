@@ -156,12 +156,8 @@ Exploring aircraft systems, flight operations, navigation and aviation technolog
 
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=leviGatimu&show_icons=true&hide_border=true&theme=transparent" height="165"/>
 <img src="https://streak-stats.demolab.com?user=leviGatimu&hide_border=true&theme=transparent" height="165"/>
-
-</div>
-
 ---
 
 <div align="center">
