@@ -81,7 +81,7 @@ Currently focused on becoming a stronger software engineer while building real-w
 
 ---
 
-## Selected Projects
+## My work
 
 <table>
 <tr>
