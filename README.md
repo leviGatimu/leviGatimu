@@ -5,7 +5,7 @@
 
 # Levi Gatimu
 
-### Student Developer · Full-Stack · AI · Robotics
+### Software Developer · Full-Stack · AI Engineer · Embedded engineer
 
 **Building software, intelligent systems, and things that actually work.**
 
