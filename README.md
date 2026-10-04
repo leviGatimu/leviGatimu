@@ -39,6 +39,7 @@ Hello, I’m **Levi**, a **Full-Stack Developer** interested in building softwar
 I like building things that are actually useful, from web applications and backend systems to AI-powered tools and hardware projects. I’m constantly exploring new technologies and pushing myself to understand how things work, not just how to use them.
 
 Currently, I’m focused on becoming a better engineer by building, experimenting, and taking on increasingly complex projects.
+
 ---
 
 ## Tech Stack
