@@ -45,7 +45,11 @@ Currently, I’m focused on becoming a better engineer by building, experimentin
 ## Tech Stack
 ### Languages <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,php,rust,go,kotlin,swift,dart,bash&perline=14" /> </div> 
 ### Frameworks & Platforms <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,vite,tailwind,electron,flutter&perline=12" /> </div>
-### Data, Tools & Hardware <div align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,sqlite,git,github,docker,linux,vscode,figma,arduino,raspberrypi,blender,ps,pr&perline=12" /> </div> ---
+### Data, Tools & Hardware <div align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,sqlite,git,github,docker,linux,vscode,figma,arduino,raspberrypi,blender,ps,pr&perline=12" /> </div> 
+
+---
+
+
 ## My work
 
 <table>
